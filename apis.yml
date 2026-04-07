@@ -1,7 +1,12 @@
 aid: pacific-life
-url: https://raw.githubusercontent.com/api-evangelist/pacific-life/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/pacific-life/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.pacific-life.com
+description: >-
+  Pacific Life is a U.S.-based insurance company providing life insurance, annuities,
+  mutual funds, and investment products and services to individuals, businesses, and
+  pension plans.
