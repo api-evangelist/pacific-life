@@ -1,7 +1,9 @@
 ---
 title: 'How AI is transforming life insurance: insights from Pacific ...'
 url: https://www.linkedin.com/posts/pacific-life-re_ai-digitaltransformation-trustedpartner-activity-7391444518644125696-fdYG
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Pacific Life" press release artificial intelligence'
 position: 3
 source: serpapi-google

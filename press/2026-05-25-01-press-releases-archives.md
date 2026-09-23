@@ -1,7 +1,9 @@
 ---
 title: Press Releases Archives
 url: https://www.atidot.com/category/press-releases/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Pacific Life" press release artificial intelligence'
 position: 1
 source: serpapi-google
